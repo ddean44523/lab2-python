@@ -27,4 +27,4 @@ def getLetterGrade(grade):
     print("Your letter grade for CMPSC 131 is F.")
 
 if __name__ == '__main__':
-  getLetterGrade()
+  main()
